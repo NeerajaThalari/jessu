@@ -1,0 +1,23 @@
+.heading{
+    color:blue;
+    font-family: fantasy;
+    text-align: center;
+    margin:10px;
+    background-image: linear-gradient(#eeaeca, #94bbe9);
+    height:50px;
+    width:200px;
+}
+.image{
+    height:200px;
+    text-align:center;
+}
+button{
+    text-align:center;
+    font-family: fantasy;
+    background-color: black;
+    color:beige;
+    border-radius: 25px;
+    height:35px;
+    width:90px;
+
+}
